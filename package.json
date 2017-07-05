@@ -1,0 +1,5 @@
+{
+  "name": "esp8266",
+  "private": true,
+  "dependencies": {}
+}
