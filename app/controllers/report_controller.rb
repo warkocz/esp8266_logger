@@ -1,7 +1,8 @@
 class ReportController < ApplicationController
 
-	def index
+	protect_from_forgery except: :create
 
+	def index
 	end
 
 	def create
